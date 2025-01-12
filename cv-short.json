@@ -105,10 +105,7 @@
       "responsibilities": [
         "Canal+: Lead Scala Developer, creating a VoD platform (video, audio, subtitles, quality checks...)",
         "Coliposte: Lead Scala Developer in the Core Team, making a framework allowing feature teams to work easily with Spark+Avro",
-        "PMU: Senior Software Engineer, creating services for our customers (authentication, winnings payouts, fraud detection...)",
-        "Carrefour: Senior Data Engineer, optimize goods stocks, analyze transactions to detect possible frauds",
-        "SACEM: Junior Data Engineer, create KPIs for our subscribers (musicians, humorists...)",
-        "MFG Labs: Junior Software/Data Engineer, schedule/optimize sea/rail fret"
+        "PMU: Senior Software Engineer, creating services for our customers (authentication, winnings payouts, fraud detection...)"
       ],
       "skills": [
         "Scala",
@@ -143,17 +140,6 @@
         "React",
         "Angular"
       ]
-    },
-    {
-      "name": "Freelance Photographer",
-      "position": "Photographer",
-      "location_type": "Remote",
-      "location": "Paris, France",
-      "url": "https://www.flickr.com/photos/batmanta",
-      "startDate": "2012-01-01",
-      "endDate": null,
-      "summary": "Photographer handling occasional requests from individuals: concerts, promotional shoots, and weddings.",
-      "skills": ["Photography"]
     }
   ],
   "education": [
