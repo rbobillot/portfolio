@@ -1,364 +1,412 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "name": "Raphael Bobillot",
+    "label": "Senior Software Developer",
+    "image": "/rbobillot.jpeg",
+    "email": "raphael.bobillot@gmail.com",
+    "phone": null,
+    "url": "https://fansbinder.com",
+    "summary": "I started programming in 2013, mainly in C and Bash. I fell in love with functional programming, particularly Scala (with ZIO2), and enjoy exploring new technologies and languages (these days, I love Gleam).",
+    "theme": "purple",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "6 RUE DE L ECHAUDE",
+      "postalCode": "75006",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Ile-de-France"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "raphaelbobillot",
+        "url": "https://linkedin.com/in/raphaelbobillot"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "rbobillot",
+        "url": "https://github.com/rbobillot"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
+      "name": "Fans Binder",
+      "position": "CTO",
+      "location_type": "Remote",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://fansbinder.com",
       "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "summary": "Create a web ext, allowing content creators to automate interactions with their followers",
+      "highlights": [],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "CTO",
+        "Full Stack Software Developer",
+        "Scrum Master",
+        "Agile Coach"
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Reverse Engineering target content creation platform APIs",
+        "Creating a Chrome Extension, interacting with target APIs",
+        "Set up an Agile environment",
+        "Set up CI and CD, using 'Github Actions' for the Website and the Extension"
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "JavaScript",
+        "TypeScript",
+        "Vue",
+        "Bun",
+        "Firebase",
+        "Stripe",
+        "Docker",
+        "Manifest V3"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "mediarithmics",
+      "position": "Senior Scala Software Engineer",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://www.mediarithmics.io/",
+      "startDate": "2021-03-01",
+      "endDate": "2023-03-01",
+      "summary": "Create/maintain web services and internal tools",
+      "highlights": [],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Handling cloud hosted VMs, with a homemade Garbage Collector",
+        "Ensure idiomatic Scala (and FP principles compliance) in our services",
+        "Update our services and tools with Scala 3"
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Scala",
+        "Cats",
+        "Akka",
+        "RabbitMQ",
+        "Kafka",
+        "Slick",
+        "Cassandra",
+        "PostgreSQL",
+        "Bazel",
+        "Chef",
+        "KVM",
+        "Qemu"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
+      "name": "CARBON IT",
+      "position": "Consultant, Senior Scala Developer",
+      "location_type": "On site",
+      "location": "Neuilly-sur-Seine, Ile-de-France, France",
+      "url": "https://carbon-it.fr/",
+      "startDate": "2016-02-01",
+      "endDate": "2021-03-01",
+      "summary": "Lead developer roles for projects with Scala and various tech stacks.",
+      "highlights": [],
+      "responsibilities": [
+        "Canal+: Lead Scala Developer, creating a VoD platform (video, audio, subtitles, quality checks...)",
+        "Coliposte: Lead Scala Developer in the Core Team, making a framework allowing feature teams to work easily with Spark+Avro",
+        "PMU: Senior Software Engineer, creating services for our customers (authentication, winnings payouts, fraud detection...)"
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Scala",
+        "Java",
+        "Cats",
+        "ZIO",
+        "Typelevel",
+        "Lightbend",
+        "RabbitMQ",
+        "Kafka",
+        "Cassandra",
+        "PostgreSQL",
+        "Slick",
+        "Spark",
+        "AVRO",
+        "Schema Registry",
+        "Play framework",
+        "HTTP4S",
+        "Guava",
+        "Spring",
+        "SpringBoot",
+        "Flink",
+        "Kafka Streams",
+        "Docker",
+        "LXC",
+        "SMACK Stack",
+        "TICK Stack",
+        "ELK",
+        "Go",
+        "Elixir",
+        "TypeScript",
+        "React",
+        "Angular"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+      "name": "Freelance Photographer",
+      "position": "Photographer",
+      "location_type": "Remote",
+      "location": "Paris, France",
+      "url": "https://www.flickr.com/photos/batmanta",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "summary": "Photographer handling occasional requests from individuals: concerts, promotional shoots, and weddings.",
+      "skills": ["Photography"]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
+      "institution": "42",
+      "url": "https://42.fr/en/homepage/",
+      "area": "Paris",
+      "studyType": null,
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "score": null,
+      "courses": ["https://companies.intra.42.fr/users/10153/resumes/104"]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "institution": "Universite Paris Descartes",
+      "url": null,
+      "area": "Droit constitutionnel, civil",
+      "studyType": "Licence",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01",
+      "score": null,
+      "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "name": "Scala",
+      "level": "Senior",
+      "keywords": []
     },
     {
-      "name": "Gitlab",
+      "name": "Gleam",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": []
     },
     {
-      "name": "HTML",
+      "name": "Elixir",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "keywords": []
     },
     {
-      "name": "CSS",
+      "name": "Go",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": []
     },
     {
       "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
+      "level": "Senior",
+      "keywords": []
     },
     {
       "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "level": "Senior",
+      "keywords": []
     },
     {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "name": "Zig",
+      "level": "Junior",
+      "keywords": []
     },
     {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "name": "Rust",
+      "level": "Junior",
+      "keywords": []
     },
     {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "name": "Julia",
+      "level": "Junior",
+      "keywords": []
     },
     {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "name": "Haskell",
+      "level": "Junior",
+      "keywords": []
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "name": "D",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "Spark",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Cats",
+      "level": "Senior",
+      "keywords": []
+    },
+    {
+      "name": "Typelevel",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Lightbend",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Kafka",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "RabbitMQ",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "PubSub",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "ELK",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "InfluxDB",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Vue",
+      "level": "Intermediate",
+      "keywords": []
     },
     {
       "name": "React",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": []
+    },
+    {
+      "name": "Bun",
+      "level": "Intermediate",
+      "keywords": []
+    },
+
+    {
+      "name": "Prometheus",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "Grafana",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Cassandra",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Ansible",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "Jira",
+      "level": "Intermediate",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Francais",
+      "fluency": "Native or Bilingual"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "English",
+      "fluency": "Full Professional"
+    },
+    {
+      "language": "Deutsch",
+      "fluency": "Limited Working"
     }
   ],
-  "interests": [
+  "certificates": [
     {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name": "Functional Programming Principles in Scala",
+      "date": "2016",
+      "issuer": null,
+      "url": "https://www.coursera.org/account/accomplishments/verify/AWZ2HY3X2RNR"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "GTS Cloning Machine",
       "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "description": "A Pokemon cloning machine, using the GTS (Global Trade System)",
+      "highlights": ["Vue + TypeScript", "Python + FastAPI"],
+      "url": null,
+      "github": "https://github.com/rbobillot/gts-cloning-machine"
     },
     {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "Pure 2048",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "description": "A 2048 Game, made in Scala with Cats",
+      "highlights": ["Scala", "Cats", "Swing / AWT"],
+      "url": null,
+      "github": "https://github.com/rbobillot/Pure2048"
+    },
+    {
+      "name": "Pure Game Of Life",
+      "isActive": false,
+      "description": "Game Of Life TUI/GUI, done using Cats (having fun with the IO Monad)",
+      "highlights": ["Scala", "Cats", "Swing / AWT"],
+      "url": null,
+      "github": "https://github.com/rbobillot/PureGameOfLife"
+    },
+    {
+      "name": "Polimatch",
+      "isActive": true,
+      "description": "A Tinder-like webapp, allowing citizens to match political programs",
+      "highlights": ["TypeScript", "Vue 3", "Web Scraping"],
+      "url": "https://rbobillot.github.io/polimatch/",
+      "github": "https://github.com/rbobillot/polimatch"
     }
   ]
 }
