@@ -351,6 +351,11 @@
       "name": "Jira",
       "level": "Intermediate",
       "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": []
     }
   ],
   "languages": [
