@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Raphael Bobillot",
-    "label": "Senior Software Developer",
+    "label": "Senior Software Engineer",
     "image": "/portfolio/rbobillot.jpeg",
     "email": "raphael.bobillot@gmail.com",
     "phone": null,
@@ -41,7 +41,7 @@
       "highlights": [],
       "responsibilities": [
         "CTO",
-        "Full Stack Software Developer",
+        "Full Stack Software Engineer",
         "Scrum Master",
         "Agile Coach"
       ],
@@ -106,8 +106,8 @@
       "summary": "Lead developer roles for projects with Scala and various tech stacks.",
       "highlights": [],
       "responsibilities": [
-        "Canal+: Lead Scala Developer, creating a VoD platform (video, audio, subtitles, quality checks...)",
-        "Coliposte: Lead Scala Developer in the Core Team, making a framework allowing feature teams to work easily with Spark+Avro",
+        "Canal+: Lead Scala Dev, creating a VoD platform (video, audio, subtitles, quality checks...)",
+        "Coliposte: Lead Scala Dev, in the Core Team, making a framework allowing feature teams to work easily with Spark+Avro",
         "PMU: Senior Software Engineer, creating services for our customers (authentication, winnings payouts, fraud detection...)",
         "Carrefour: Senior Data Engineer, optimize goods stocks, analyze transactions to detect possible frauds",
         "SACEM: Junior Data Engineer, create KPIs for our subscribers (musicians, humorists...)",
