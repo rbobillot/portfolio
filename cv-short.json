@@ -54,8 +54,11 @@
       "skills": [
         "JavaScript",
         "TypeScript",
+        "Gleam",
+        "Wisp",
         "Vue",
         "Bun",
+        "Flutter",
         "Firebase",
         "Stripe",
         "Docker",
